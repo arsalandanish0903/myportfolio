@@ -17,7 +17,7 @@ const Header = () => {
             <span className="relative z-10">Danish.dev</span>
             <span className="absolute inset-0 w-full h-full bg-teal-400 rounded-md opacity-0 group-hover:opacity-10 transition-opacity duration-300"></span>
           </span> */}
-          <img src="/d__1_-removebg-preview.png" alt="" className='w-32'/>
+          <img src="/d__1_-removebg-preview (1).png" alt="" className='w-32'/>
         </h1>
 
         {/* Desktop Nav with enhanced hover effects */}

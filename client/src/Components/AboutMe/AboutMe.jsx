@@ -62,7 +62,7 @@ const AboutMe = () => {
             
             <div className="space-y-4 text-gray-300">
               <p>
-                With over 2 years of experience in web development, I specialize in creating beautiful, responsive, and user-friendly interfaces that deliver exceptional user experiences.
+                With over 7 Month of experience in web development, I specialize in creating beautiful, responsive, and user-friendly interfaces that deliver exceptional user experiences.
               </p>
               
               <p>
@@ -77,12 +77,12 @@ const AboutMe = () => {
             {/* Experience highlights */}
             <div className="mt-8 grid grid-cols-2 gap-4">
               <div className="bg-[#1e293b]/50 p-4 rounded-lg border-l-4 border-teal-400">
-                <h4 className="font-bold text-lg">50+</h4>
+                <h4 className="font-bold text-lg">10+</h4>
                 <p className="text-sm text-gray-400">Projects Completed</p>
               </div>
               <div className="bg-[#1e293b]/50 p-4 rounded-lg border-l-4 border-blue-400">
-                <h4 className="font-bold text-lg">2+</h4>
-                <p className="text-sm text-gray-400">Years Experience</p>
+                <h4 className="font-bold text-lg">7+</h4>
+                <p className="text-sm text-gray-400">Month Experience</p>
               </div>
             </div>
           </div>
